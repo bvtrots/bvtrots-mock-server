@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+
+node_modules/
+
+build/
+dist/
+
+*.tmp
+*.DS_Store
+
+.cache/
+.env*
+*.log
+*.code-workspace
