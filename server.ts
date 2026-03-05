@@ -99,6 +99,6 @@ server.use((req, res, next) => {
 server.use(router);
 
 const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
-  console.log(` 🚀 CRUD server http://localhost:${PORT}`);
+server.listen(Number(PORT),'0.0.0.0', () => {
+  console.log(` 🚀 Server us running on port ${PORT}`);
 });
