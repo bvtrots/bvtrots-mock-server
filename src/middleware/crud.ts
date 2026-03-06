@@ -1,5 +1,5 @@
-import {DbStructure} from "../../types/serverTypes";
-import {saveToDisk} from "../utils/db-engine";
+import {DbStructure} from "../types/serverTypes.js";
+import {saveToDisk} from "../utils/db-engine.js";
 import { Request, Response, NextFunction } from 'express';
 
 

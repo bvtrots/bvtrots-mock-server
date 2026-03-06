@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { upload } from '../middleware/storage';
+import { upload } from '../middleware/storage.js';
 
 const router = Router();
 

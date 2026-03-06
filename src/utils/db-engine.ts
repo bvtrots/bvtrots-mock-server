@@ -1,4 +1,4 @@
-import {DbStructure} from "../../types/serverTypes";
+import {DbStructure} from "../types/serverTypes.js";
 import {readdirSync, readFileSync, statSync, writeFileSync} from "fs";
 import path from "path";
 

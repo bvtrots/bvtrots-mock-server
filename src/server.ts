@@ -1,9 +1,9 @@
 import jsonServer from 'json-server';
-import {buildDatabase, saveToDisk} from "./src/utils/db-engine";
-import {crudConductor} from "./src/middleware/crud";
+import {buildDatabase, saveToDisk} from "./utils/db-engine.js";
+import {crudConductor} from "./middleware/crud.js";
 import express from 'express';
-import {DbStructure} from "./types/serverTypes";
-import {upload} from "./src/middleware/storage";
+import {upload} from "./middleware/storage.js";
+import {DbStructure} from "./types/serverTypes.js";
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
