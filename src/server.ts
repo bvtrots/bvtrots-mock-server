@@ -31,7 +31,7 @@ server.post('/:project/upload', upload.single('filename'), (req, res) => {
 
     const newPhoto = {
       id: collection.length > 0 ? Math.max(...collection.map((p: any) => p.id)) + 1 : 1,
-      url: `photos/${req.file.filename}`,
+      url: `/public/${project}/photos/${req.file.filename}`,
       description: req.body.description || "",
       likes: 0,
       comments: []
@@ -48,6 +48,7 @@ server.post('/:project/upload', upload.single('filename'), (req, res) => {
     res.status(500).send('Error saving data');
   }
 });
+server.use('/public', express.static(path.join(process.cwd(), 'public')));
 
 
 crudConductor(server, router);
