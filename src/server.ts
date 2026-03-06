@@ -4,6 +4,7 @@ import {crudConductor} from "./middleware/crud.js";
 import express from 'express';
 import {upload} from "./middleware/storage.js";
 import {DbStructure} from "./types/serverTypes.js";
+import path from "path";
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
