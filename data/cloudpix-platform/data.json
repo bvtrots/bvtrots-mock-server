@@ -1,0 +1,555 @@
+[
+  {
+    "id": 0,
+    "url": "public/cloudpix-platform/default/photos/1.jpg",
+    "likes": 142,
+    "comments": [
+      {
+        "id": 101,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Absolutely love the lighting here.",
+        "name": "Stephan"
+      },
+      {
+        "id": 102,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "The cozy atmosphere is just perfect.",
+        "name": "Elena"
+      },
+      {
+        "id": 103,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "I could work here all day long.",
+        "name": "Arthur"
+      },
+      {
+        "id": 104,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "Great color palette.",
+        "name": "Jessica"
+      },
+      {
+        "id": 105,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Is this a real place?",
+        "name": "Emma"
+      },
+      {
+        "id": 106,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Stunning render quality!",
+        "name": "Mike"
+      },
+      {
+        "id": 107,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Such a dream office.",
+        "name": "Linda"
+      },
+      {
+        "id": 108,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "The shadows are very realistic.",
+        "name": "Robert"
+      },
+      {
+        "id": 109,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Incredible attention to detail.",
+        "name": "Alice"
+      },
+      {
+        "id": 110,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "I love the minimalist vibe.",
+        "name": "Mark"
+      },
+      {
+        "id": 111,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "So peaceful and quiet.",
+        "name": "Sophia"
+      },
+      {
+        "id": 112,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Amazing work!",
+        "name": "John"
+      },
+      {
+        "id": 113,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "This is so inspiring.",
+        "name": "David"
+      },
+      {
+        "id": 114,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Perfect composition.",
+        "name": "Sarah"
+      },
+      {
+        "id": 115,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Can I move in tomorrow?",
+        "name": "Leo"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "url": "public/cloudpix-platform/default/photos/2.jpg",
+    "likes": 89,
+    "comments": [
+      {
+        "id": 201,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "What an incredible view!",
+        "name": "Arthur"
+      },
+      {
+        "id": 202,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "The mountains look so majestic.",
+        "name": "Jessica"
+      },
+      {
+        "id": 203,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Nature at its best.",
+        "name": "Elena"
+      },
+      {
+        "id": 204,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "I love the warm colors of the sunset.",
+        "name": "Stephan"
+      },
+      {
+        "id": 205,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Breathtaking landscape.",
+        "name": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "url": "public/cloudpix-platform/default/photos/3.jpg",
+    "likes": 210,
+    "comments": [
+      {
+        "id": 301,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "Modern and elegant.",
+        "name": "Jessica"
+      },
+      {
+        "id": 302,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "The glass walls are amazing.",
+        "name": "Mike"
+      },
+      {
+        "id": 303,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Perfect for a home office.",
+        "name": "Robert"
+      },
+      {
+        "id": 304,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Clean lines and great light.",
+        "name": "Alice"
+      },
+      {
+        "id": 305,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "I wish my desk looked like this.",
+        "name": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "url": "public/cloudpix-platform/default/photos/4.jpg",
+    "likes": 67,
+    "comments": [
+      {
+        "id": 401,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Panoramic view is just wow.",
+        "name": "Sophia"
+      },
+      {
+        "id": 402,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Love the blue hour vibes.",
+        "name": "David"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "url": "public/cloudpix-platform/default/photos/5.jpg",
+    "likes": 125,
+    "comments": [
+      {
+        "id": 501,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Forest interiors are the best.",
+        "name": "David"
+      },
+      {
+        "id": 502,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Looks so fresh.",
+        "name": "Hannah"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "url": "public/cloudpix-platform/default/photos/6.jpg",
+    "likes": 312,
+    "comments": [
+      {
+        "id": 601,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Night renders are so tricky, but you nailed it.",
+        "name": "Linda"
+      },
+      {
+        "id": 602,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "The lighting is so warm.",
+        "name": "Robert"
+      },
+      {
+        "id": 603,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "I love the contrast.",
+        "name": "Emma"
+      },
+      {
+        "id": 604,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Beautiful atmosphere.",
+        "name": "John"
+      },
+      {
+        "id": 605,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Excellent work with the shadows.",
+        "name": "Alice"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "url": "public/cloudpix-platform/default/photos/7.jpg",
+    "likes": 45,
+    "comments": [
+      {
+        "id": 701,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Minimalist and clean.",
+        "name": "Robert"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "url": "public/cloudpix-platform/default/photos/8.jpg",
+    "likes": 234,
+    "comments": [
+      {
+        "id": 801,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "A peaceful evening vibe.",
+        "name": "Karen"
+      },
+      {
+        "id": 802,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Love the fireplace.",
+        "name": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "url": "public/cloudpix-platform/default/photos/9.jpg",
+    "likes": 178,
+    "comments": [
+      {
+        "id": 901,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "Perfect symmetry.",
+        "name": "Chris"
+      },
+      {
+        "id": 902,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Love the materials used here.",
+        "name": "Elena"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "url": "public/cloudpix-platform/default/photos/10.jpg",
+    "likes": 56,
+    "comments": [
+      {
+        "id": 1001,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Vertical format is a good choice.",
+        "name": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "url": "public/cloudpix-platform/default/photos/11.jpg",
+    "likes": 92,
+    "comments": [
+      {
+        "id": 1101,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Quiet beauty.",
+        "name": "John"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "url": "public/cloudpix-platform/default/photos/12.jpg",
+    "likes": 156,
+    "comments": [
+      {
+        "id": 1201,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Stunning blue tones.",
+        "name": "Alice"
+      },
+      {
+        "id": 1202,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "Looks like a fjord view.",
+        "name": "Mark"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "url": "public/cloudpix-platform/default/photos/13.jpg",
+    "likes": 203,
+    "comments": [
+      {
+        "id": 1301,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "The round window is iconic.",
+        "name": "Tom"
+      },
+      {
+        "id": 1302,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Unique design.",
+        "name": "Arthur"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "url": "public/cloudpix-platform/default/photos/14.jpg",
+    "likes": 341,
+    "comments": [
+      {
+        "id": 1401,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Every book lover's dream.",
+        "name": "Sarah"
+      },
+      {
+        "id": 1402,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Love the huge bookshelves.",
+        "name": "Emma"
+      },
+      {
+        "id": 1403,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "The mountain view is the cherry on top.",
+        "name": "Stephan"
+      },
+      {
+        "id": 1404,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Cozy level: expert.",
+        "name": "Robert"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "url": "public/cloudpix-platform/default/photos/15.jpg",
+    "likes": 118,
+    "comments": [
+      {
+        "id": 1501,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "The indoor garden is a great touch.",
+        "name": "Mark"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "url": "public/cloudpix-platform/default/photos/16.jpg",
+    "likes": 74,
+    "comments": [
+      {
+        "id": 1601,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Futuristic yet earthy.",
+        "name": "Victor"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "url": "public/cloudpix-platform/default/photos/17.jpg",
+    "likes": 289,
+    "comments": [
+      {
+        "id": 1701,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "That golden hour glow!",
+        "name": "Oliver"
+      },
+      {
+        "id": 1702,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Magic moment.",
+        "name": "Alice"
+      },
+      {
+        "id": 1703,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "So inviting.",
+        "name": "Hannah"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "url": "public/cloudpix-platform/default/photos/18.jpg",
+    "likes": 145,
+    "comments": [
+      {
+        "id": 1801,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Fireplace and snow — classic.",
+        "name": "Hannah"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "url": "public/cloudpix-platform/default/photos/19.jpg",
+    "likes": 321,
+    "comments": [
+      {
+        "id": 1901,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "The waterfall view is breathtaking.",
+        "name": "Leo"
+      },
+      {
+        "id": 1902,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Paradise found.",
+        "name": "Elena"
+      },
+      {
+        "id": 1903,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Incredible composition.",
+        "name": "Sophia"
+      },
+      {
+        "id": 1904,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Best one so far.",
+        "name": "Mike"
+      },
+      {
+        "id": 1905,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Stunning visuals.",
+        "name": "Arthur"
+      },
+      {
+        "id": 1906,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "I love the color balance.",
+        "name": "Jessica"
+      },
+      {
+        "id": 1907,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "Just beautiful.",
+        "name": "Alice"
+      },
+      {
+        "id": 1908,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Great end to the collection.",
+        "name": "Emma"
+      },
+      {
+        "id": 1909,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "So serene.",
+        "name": "Linda"
+      },
+      {
+        "id": 1910,
+        "avatar": "public/cloudpix-platform/default/img/avatar-1.svg",
+        "message": "Amazing render!",
+        "name": "Robert"
+      },
+      {
+        "id": 1911,
+        "avatar": "public/cloudpix-platform/default/img/avatar-5.svg",
+        "message": "Truly inspiring.",
+        "name": "John"
+      },
+      {
+        "id": 1912,
+        "avatar": "public/cloudpix-platform/default/img/avatar-4.svg",
+        "message": "Masterpiece.",
+        "name": "Mark"
+      },
+      {
+        "id": 1913,
+        "avatar": "public/cloudpix-platform/default/img/avatar-6.svg",
+        "message": "The water looks so real.",
+        "name": "David"
+      },
+      {
+        "id": 1914,
+        "avatar": "public/cloudpix-platform/default/img/avatar-2.svg",
+        "message": "Fantastic job!",
+        "name": "Sarah"
+      },
+      {
+        "id": 1915,
+        "avatar": "public/cloudpix-platform/default/img/avatar-3.svg",
+        "message": "Love it all.",
+        "name": "Sophia"
+      }
+    ]
+  }
+]
