@@ -1,104 +1,59 @@
 import jsonServer from 'json-server';
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'fs';
-import path from 'path';
+import {buildDatabase, saveToDisk} from "./src/utils/db-engine";
+import {crudConductor} from "./src/middleware/crud";
+import express from 'express';
 import {DbStructure} from "./types/serverTypes";
-
+import {upload} from "./src/middleware/storage";
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
-const DATA_DIR = path.resolve('data');
 
-
-const saveToDisk = (projectName: string, resourceName: string, data: any[]) => {
-  const filePath = path.join(DATA_DIR, projectName, `${resourceName}.json`);
-  try {
-    writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
-    console.log(` ✅ Data saved to ${resourceName}.json`);
-  } catch (error) {
-    console.error(` ⛔ Error record to ${filePath}`);
-  }
-};
-
-const buildDatabase = (): DbStructure => {
-  const dataBase: DbStructure = {};
-  const projects = readdirSync(DATA_DIR);
-
-  projects.forEach((projectName) => {
-    const projectPath = path.join(DATA_DIR, projectName);
-    if (statSync(projectPath).isDirectory()) {
-      dataBase[projectName] = {};
-      const files = readdirSync(projectPath);
-      files.forEach((file) => {
-        if (file.endsWith('.json')) {
-          const resourceName = path.basename(file, '.json');
-          const filePath = path.join(projectPath, file);
-          dataBase[projectName][resourceName] = JSON.parse(readFileSync(filePath, 'utf-8'));
-        }
-      });
-    }
-  });
-  return dataBase;
-};
 
 const dataBase = buildDatabase();
 const router = jsonServer.router(dataBase);
 
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
+server.use('/public', express.static('public'));
 
-server.use((req, res, next) => {
-  const pathParts = req.path.split('/').filter(Boolean);
 
-  if (pathParts.length >= 2) {
-    const [project, resource, id] = pathParts;
+server.post('/:project/upload', upload.single('filename'), (req, res) => {
+  try {
+    const { project } = req.params;
+    if (!req.file) return res.status(400).send('No file');
+
     const currentState = router.db.getState() as DbStructure;
+    const collection = currentState[project]?.['data'];
 
-    if (currentState[project] && currentState[project][resource]) {
-      const collection = currentState[project][resource];
-
-
-      if (req.method === 'GET') {
-        if (id) {
-          const item = collection.find(item => item.id === id);
-          return item ? res.jsonp(item) : res.status(404).send('Not Found');
-        }
-        return res.jsonp(collection);
-      }
-
-
-      if (req.method === 'POST') {
-        const newItem = { ...req.body, id: req.body.id || crypto.randomUUID() };
-        collection.push(newItem);
-        saveToDisk(project, resource, collection);
-        return res.status(201).jsonp(newItem);
-      }
-
-
-      if ((req.method === 'PUT' || req.method === 'PATCH') && id) {
-        const index = collection.findIndex(i => i.id === id);
-        if (index !== -1) {
-          collection[index] = { ...collection[index], ...req.body, id };
-          saveToDisk(project, resource, collection);
-          return res.jsonp(collection[index]);
-        }
-      }
-
-      if (req.method === 'DELETE' && id) {
-        const filtered = collection.filter(i => i.id !== id);
-        if (filtered.length < collection.length) {
-          currentState[project][resource] = filtered;
-          saveToDisk(project, resource, filtered);
-          return res.status(204).send();
-        }
-      }
+    if (!collection) {
+      return res.status(404).send('Project or resource not found');
     }
+
+    const newPhoto = {
+      id: collection.length > 0 ? Math.max(...collection.map((p: any) => p.id)) + 1 : 1,
+      url: `photos/${req.file.filename}`,
+      description: req.body.description || "",
+      likes: 0,
+      comments: []
+    };
+
+    collection.push(newPhoto);
+
+    saveToDisk(project, 'data', collection);
+
+    res.json({ ...newPhoto, success: true });
+
+  } catch (err) {
+    console.error('Ошибка при сохранении:', err);
+    res.status(500).send('Error saving data');
   }
-  next();
 });
 
+
+crudConductor(server, router);
 server.use(router);
 
-const PORT = process.env.PORT || 3000;
-server.listen(Number(PORT),'0.0.0.0', () => {
-  console.log(` 🚀 Server us running on port ${PORT}`);
+const PORT = process.env.PORT || 3001;
+server.listen(Number(PORT), '0.0.0.0', () => {
+  console.log(` 🚀 Server is running on port ${PORT}`);
 });
