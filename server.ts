@@ -23,7 +23,7 @@ server.post('/:project/upload', upload.single('filename'), (req, res) => {
     if (!req.file) return res.status(400).send('No file');
 
     const currentState = router.db.getState() as DbStructure;
-    const collection = currentState[project]?.['data'];
+    const collection = currentState[project as string]?.['data'];
 
     if (!collection) {
       return res.status(404).send('Project or resource not found');
@@ -39,7 +39,7 @@ server.post('/:project/upload', upload.single('filename'), (req, res) => {
 
     collection.push(newPhoto);
 
-    saveToDisk(project, 'data', collection);
+    saveToDisk(project as string, 'data', collection);
 
     res.json({ ...newPhoto, success: true });
 

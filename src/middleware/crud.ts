@@ -1,10 +1,11 @@
 import {DbStructure} from "../../types/serverTypes";
 import {saveToDisk} from "../utils/db-engine";
+import { Request, Response, NextFunction } from 'express';
 
 
-export const crudConductor=(server,router)=> {
+export const crudConductor=(server:any,router:any)=> {
 
-  server.use((req, res, next) => {
+  server.use((req:Request, res:Response, next:NextFunction) => {
     const pathParts = req.path.split('/').filter(Boolean);
     if (pathParts.length >= 2) {
       const [project, resource, id] = pathParts;
