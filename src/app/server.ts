@@ -19,7 +19,7 @@ server.use('/cloudpix-platform', cloudpixRoutes(router));
 crudConductor(server, router as any);
 server.use(router);
 
-const PORT = process.env.PORT || 3001;
+const PORT = Number(process.env.PORT) || 3001;
 
 const displayUrl = process.env.PORT
   ? 'https://bvtrots-test-server.onrender.com'
