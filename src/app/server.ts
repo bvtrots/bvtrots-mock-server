@@ -19,7 +19,12 @@ server.use('/cloudpix-platform', cloudpixRoutes(router));
 crudConductor(server, router as any);
 server.use(router);
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+
+const displayUrl = process.env.PORT
+  ? 'https://bvtrots-test-server.onrender.com'
+  : `http://localhost:${PORT}`;
+
 server.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 Server is running on http://localhost:${PORT}`);
+  console.log(`🚀 Server is running at: ${displayUrl}`);
 });

@@ -1,9 +1,9 @@
 {
-  "name": "bvtrots-mock-server",
+  "name": "bvtrots-test-server",
   "version": "2.0.0",
   "description": "test server for my projects",
   "author": "bvtrots",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "build": "tsc && tsc-alias",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bvtrots/bvtrots-mock-server.git"
+    "url": "https://github.com/bvtrots/bvtrots-test-server"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bvtrots/bvtrots-mock-server/issues"
+    "url": "https://github.com/bvtrots/bvtrots-test-server/issues"
   },
-  "homepage": "https://github.com/bvtrots/bvtrots-mock-server#readme",
+  "homepage": "https://github.com/bvtrots/bvtrots-test-server#readme",
   "dependencies": {
     "json-server": "^0.17.4",
     "multer": "^2.1.1"
