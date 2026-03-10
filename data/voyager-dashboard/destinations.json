@@ -1,0 +1,174 @@
+[
+  {
+    "id": "4ecd4cdd-acf6-453f-a7e3-8da762be8375",
+    "description": "Nagasaki - full of of cozy canteens where you can try the best coffee in the Middle East",
+    "name": "Nagasaki",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=3",
+        "description": "Nagasaki in a middle of Europe"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=8",
+        "description": "Nagasaki famous for its crowded street markets with the best street food in Asia"
+      }
+    ]
+  },
+  {
+    "id": "ed1f6576-3cba-4b28-b7c0-a26cb0171c46",
+    "description": "Valencia - famous for its crowded street markets with the best street food in Asia",
+    "name": "Valencia",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=11",
+        "description": "Valencia for those who value comfort and coziness"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=11",
+        "description": "Valencia a true asian pearl"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=12",
+        "description": "Valencia a true asian pearl"
+      }
+    ]
+  },
+  {
+    "id": "a1ece09b-bd9e-4d47-84c8-32ea98cb5d9c",
+    "description": "Frankfurt - full of of cozy canteens where you can try the best coffee in the Middle East",
+    "name": "Frankfurt",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=20",
+        "description": "Frankfurt for those who value comfort and coziness"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=13",
+        "description": "Frankfurt full of of cozy canteens where you can try the best coffee in the Middle East"
+      }
+    ]
+  },
+  {
+    "id": "c9475f35-e250-43c2-bbf3-d833152a8dc6",
+    "description": "Munich - middle-eastern paradise",
+    "name": "Munich",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=18",
+        "description": "Munich famous for its crowded street markets with the best street food in Asia"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=16",
+        "description": "Munich in a middle of Europe"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=8",
+        "description": "Munich a true asian pearl"
+      }
+    ]
+  },
+  {
+    "id": "15a29f43-4f15-40af-89f3-0c5312a8f00a",
+    "description": "Paris - with an embankment of a mighty river as a centre of attraction",
+    "name": "Paris",
+    "pictures": []
+  },
+  {
+    "id": "e2984b72-2864-45bd-a7fb-dfddbcc7fceb",
+    "description": "Chamonix - with an embankment of a mighty river as a centre of attraction",
+    "name": "Chamonix",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=4",
+        "description": "Chamonix a perfect place to stay with a family"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=6",
+        "description": "Chamonix with a beautiful old town"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=4",
+        "description": "Chamonix is a beautiful city"
+      }
+    ]
+  },
+  {
+    "id": "352cf714-d85f-4b7c-98dc-95ea39e2e4cc",
+    "description": "Kioto - for those who value comfort and coziness",
+    "name": "Kioto",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=1",
+        "description": "Kioto is a beautiful city"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=17",
+        "description": "Kioto famous for its crowded street markets with the best street food in Asia"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=10",
+        "description": "Kioto in a middle of Europe"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=4",
+        "description": "Kioto with an embankment of a mighty river as a centre of attraction"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=1",
+        "description": "Kioto a perfect place to stay with a family"
+      }
+    ]
+  },
+  {
+    "id": "cfffc6be-f11e-48b0-a22f-a3c27f9a5e24",
+    "description": "Amsterdam - full of of cozy canteens where you can try the best coffee in the Middle East",
+    "name": "Amsterdam",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=20",
+        "description": "Amsterdam is a beautiful city"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=11",
+        "description": "Amsterdam is a beautiful city"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=12",
+        "description": "Amsterdam a true asian pearl"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=16",
+        "description": "Amsterdam a true asian pearl"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=16",
+        "description": "Amsterdam full of of cozy canteens where you can try the best coffee in the Middle East"
+      }
+    ]
+  },
+  {
+    "id": "a0a75af1-5c42-41fb-8e2f-015629b03073",
+    "description": "Rome - a perfect place to stay with a family",
+    "name": "Rome",
+    "pictures": [
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=18",
+        "description": "Rome full of of cozy canteens where you can try the best coffee in the Middle East"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=1",
+        "description": "Rome for those who value comfort and coziness"
+      },
+      {
+        "src": "https://loremflickr.com/248/152/travel,city?lock=6",
+        "description": "Rome with crowded streets"
+      }
+    ]
+  },
+  {
+    "id": "f54c9aba-5345-46fe-9428-0e362e96f235",
+    "description": "",
+    "name": "Monaco",
+    "pictures": []
+  }
+]
