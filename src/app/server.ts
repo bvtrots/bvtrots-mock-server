@@ -4,7 +4,7 @@ import path from 'path';
 import { buildDatabase } from '@shared/db//index.js';
 import { crudConductor } from '@shared/api/index.js';
 import {cloudpixRoutes} from '@entities/cloudpix-platform/index.js';
-import {travelInComfortRoutes} from "@entities/travel-in-comfort";
+import {travelInComfortRoutes} from '@entities/travel-in-comfort/index.js';
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
