@@ -4,6 +4,7 @@ import path from 'path';
 import { buildDatabase } from '@shared/db//index.js';
 import { crudConductor } from '@shared/api/index.js';
 import {cloudpixRoutes} from '@entities/cloudpix-platform/index.js';
+import {travelInComfortRoutes} from "@entities/travel-in-comfort";
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
@@ -15,6 +16,7 @@ server.use(jsonServer.bodyParser)
 server.use('/public', express.static(path.join(process.cwd(), 'public')));
 
 server.use('/cloudpix-platform', cloudpixRoutes(router));
+server.use('/travel-in-comfort', travelInComfortRoutes(router));
 
 crudConductor(server, router as any);
 server.use(router);

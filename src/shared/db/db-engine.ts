@@ -1,6 +1,7 @@
 import {DbStructure} from "../types/index.js";
 import {readdirSync, readFileSync, statSync, writeFileSync} from "fs";
 import path from "path";
+import {mkdirSync,existsSync} from "node:fs";
 
 const DATA_DIR = path.resolve('data');
 
@@ -25,12 +26,18 @@ export const buildDatabase = (): DbStructure => {
 };
 
 
-export const saveToDisk = (projectName: string, resourceName: string, data: any[]) => {
+export const saveToDisk = (projectName: string, resourceName: string, data: any) => {
   const filePath = path.join(DATA_DIR, projectName, `${resourceName}.json`);
   try {
+    // Проверяем, существует ли папка, на всякий случай
+    const dirPath = path.dirname(filePath);
+    if (!existsSync(dirPath)) {
+      mkdirSync(dirPath, { recursive: true });
+    }
+
     writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
     console.log(` ✅ Data saved to ${resourceName}.json`);
   } catch (error) {
-    console.error(` ⛔ Error record to ${filePath}`);
+    console.error(` ⛔ Error record to ${filePath}`, error);
   }
 };

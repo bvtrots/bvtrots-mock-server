@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "rev-1",
+    "offerId": "0a928449-2ae6-4a2f-9630-bae9858cd6b3",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=1",
+      "isPro": true
+    },
+    "comment": "A quiet cozy and picturesque loft. Great location in central Paris!",
+    "rating": 4
+  },
+  {
+    "id": "rev-2",
+    "offerId": "0a928449-2ae6-4a2f-9630-bae9858cd6b3",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Alice",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=2",
+      "isPro": false
+    },
+    "comment": "The design is very minimalist and clean. Loved the big windows.",
+    "rating": 5
+  },
+  {
+    "id": "rev-3",
+    "offerId": "0a928449-2ae6-4a2f-9630-bae9858cd6b3",
+    "date": "2024-03-12T15:30:00.000Z",
+    "user": {
+      "name": "Lucas",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=3",
+      "isPro": true
+    },
+    "comment": "Bit of a climb to the top floor, but the view is worth it!",
+    "rating": 4
+  },
+  {
+    "id": "rev-4",
+    "offerId": "cbcd0a6b-d06a-4275-8d21-85783e54dba2",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=4",
+      "isPro": false
+    },
+    "comment": "The garden is a dream. Hard to believe this is in the middle of Paris.",
+    "rating": 5
+  },
+  {
+    "id": "rev-5",
+    "offerId": "cbcd0a6b-d06a-4275-8d21-85783e54dba2",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=5",
+      "isPro": true
+    },
+    "comment": "Very spacious hotel rooms and Marc was an excellent host.",
+    "rating": 4
+  },
+  {
+    "id": "rev-6",
+    "offerId": "cbcd0a6b-d06a-4275-8d21-85783e54dba2",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=6",
+      "isPro": false
+    },
+    "comment": "Perfect for a family stay. The kids loved the trees!",
+    "rating": 5
+  },
+  {
+    "id": "rev-7",
+    "offerId": "11eb5c51-7731-4b79-a83a-d291d7ab467a",
+    "date": "2023-11-10T09:45:00.000Z",
+    "user": {
+      "name": "Oliver",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=7",
+      "isPro": true
+    },
+    "comment": "The view of the canal is simply magical. Small but very cozy.",
+    "rating": 5
+  },
+  {
+    "id": "rev-8",
+    "offerId": "11eb5c51-7731-4b79-a83a-d291d7ab467a",
+    "date": "2023-12-15T11:20:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=8",
+      "isPro": false
+    },
+    "comment": "Amsterdam vibes in Paris. Sophie is a great host!",
+    "rating": 4
+  },
+  {
+    "id": "rev-9",
+    "offerId": "11eb5c51-7731-4b79-a83a-d291d7ab467a",
+    "date": "2024-01-05T20:00:00.000Z",
+    "user": {
+      "name": "Max",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=9",
+      "isPro": true
+    },
+    "comment": "The room was a bit cold during the night, but the blankets were warm.",
+    "rating": 3
+  },
+  {
+    "id": "rev-10",
+    "offerId": "0b715d89-b6e8-4e17-8d14-bea3cd949acd",
+    "date": "2024-02-28T14:00:00.000Z",
+    "user": {
+      "name": "Anna",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=10",
+      "isPro": false
+    },
+    "comment": "The bed is indeed massive! Best sleep I've had in a while.",
+    "rating": 5
+  },
+  {
+    "id": "rev-11",
+    "offerId": "0b715d89-b6e8-4e17-8d14-bea3cd949acd",
+    "date": "2024-03-01T09:00:00.000Z",
+    "user": {
+      "name": "Victor",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=11",
+      "isPro": true
+    },
+    "comment": "Great location, very close to the metro. Clean and warm.",
+    "rating": 4
+  },
+  {
+    "id": "rev-12",
+    "offerId": "0b715d89-b6e8-4e17-8d14-bea3cd949acd",
+    "date": "2024-03-10T22:15:00.000Z",
+    "user": {
+      "name": "Clara",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=12",
+      "isPro": false
+    },
+    "comment": "Jean was very helpful with local tips. Kitchen is well-equipped.",
+    "rating": 5
+  },
+  {
+    "id": "rev-13",
+    "offerId": "ae3a6fb5-7a8c-436b-b02c-611c4443cb0e",
+    "date": "2024-01-12T22:10:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=13",
+      "isPro": true
+    },
+    "comment": "Premium experience. The breakfast was fresh and tasty.",
+    "rating": 5
+  },
+  {
+    "id": "rev-14",
+    "offerId": "ae3a6fb5-7a8c-436b-b02c-611c4443cb0e",
+    "date": "2024-02-15T08:30:00.000Z",
+    "user": {
+      "name": "Sarah",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=14",
+      "isPro": false
+    },
+    "comment": "The safe was easy to use, and the AC was a lifesaver.",
+    "rating": 4
+  },
+  {
+    "id": "rev-15",
+    "offerId": "ae3a6fb5-7a8c-436b-b02c-611c4443cb0e",
+    "date": "2024-03-02T16:45:00.000Z",
+    "user": {
+      "name": "Tom",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=15",
+      "isPro": true
+    },
+    "comment": "Expensive but worth every penny for the central location.",
+    "rating": 5
+  },
+  {
+    "id": "rev-16",
+    "offerId": "deeaf320-e42f-467d-8127-c28aa49fef14",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=16",
+      "isPro": false
+    },
+    "comment": "Love the desert aesthetic! Such a unique place in Paris.",
+    "rating": 5
+  },
+  {
+    "id": "rev-17",
+    "offerId": "deeaf320-e42f-467d-8127-c28aa49fef14",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Ben",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=17",
+      "isPro": true
+    },
+    "comment": "The laptop workspace was perfect for my remote work days.",
+    "rating": 4
+  },
+  {
+    "id": "rev-18",
+    "offerId": "deeaf320-e42f-467d-8127-c28aa49fef14",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Julie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=18",
+      "isPro": false
+    },
+    "comment": "Dishwasher and washing machine worked perfectly. Very convenient.",
+    "rating": 5
+  },
+  {
+    "id": "rev-19",
+    "offerId": "babc1bf7-c88f-4eca-b924-b155c4a400a5",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=19",
+      "isPro": true
+    },
+    "comment": "Unbelievable price for a penthouse access. The balcony is huge.",
+    "rating": 5
+  },
+  {
+    "id": "rev-20",
+    "offerId": "babc1bf7-c88f-4eca-b924-b155c4a400a5",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Leo",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=20",
+      "isPro": false
+    },
+    "comment": "A bit crowded in common areas, but great for meeting people.",
+    "rating": 3
+  },
+  {
+    "id": "rev-21",
+    "offerId": "babc1bf7-c88f-4eca-b924-b155c4a400a5",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Elena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=21",
+      "isPro": true
+    },
+    "comment": "Luc is a very chilled host. Amazing views of Paris!",
+    "rating": 4
+  },
+  {
+    "id": "rev-22",
+    "offerId": "56250221-3700-4840-a509-0f1353a8fca4",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=22",
+      "isPro": false
+    },
+    "comment": "Classic Parisian luxury. The mini bar was well stocked.",
+    "rating": 5
+  },
+  {
+    "id": "rev-23",
+    "offerId": "56250221-3700-4840-a509-0f1353a8fca4",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=23",
+      "isPro": true
+    },
+    "comment": "Room service was fast and the food was delicious.",
+    "rating": 4
+  },
+  {
+    "id": "rev-24",
+    "offerId": "56250221-3700-4840-a509-0f1353a8fca4",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=24",
+      "isPro": false
+    },
+    "comment": "Elegant decor and very quiet room. Perfect for a romantic stay.",
+    "rating": 5
+  },
+  {
+    "id": "rev-25",
+    "offerId": "bd242813-5dad-42ca-a431-d195c7da2d6c",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=25",
+      "isPro": false
+    },
+    "comment": "The five balconies are insane! Best for a group of friends.",
+    "rating": 5
+  },
+  {
+    "id": "rev-26",
+    "offerId": "bd242813-5dad-42ca-a431-d195c7da2d6c",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Pierre",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=26",
+      "isPro": true
+    },
+    "comment": "Huge space. We had a great family reunion here.",
+    "rating": 4
+  },
+  {
+    "id": "rev-27",
+    "offerId": "bd242813-5dad-42ca-a431-d195c7da2d6c",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Marc",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=27",
+      "isPro": false
+    },
+    "comment": "A bit of a walk to the metro, but the apartment itself is 10/10.",
+    "rating": 4
+  },
+  {
+    "id": "rev-28",
+    "offerId": "bcc72946-0705-4a69-863f-87723e081090",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=28",
+      "isPro": true
+    },
+    "comment": "The spa access was exactly what I needed after a day of walking.",
+    "rating": 5
+  },
+  {
+    "id": "rev-29",
+    "offerId": "bcc72946-0705-4a69-863f-87723e081090",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Chloe",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=29",
+      "isPro": false
+    },
+    "comment": "Luxurious slippers and bathrobe. Felt like a queen.",
+    "rating": 5
+  },
+  {
+    "id": "rev-30",
+    "offerId": "bcc72946-0705-4a69-863f-87723e081090",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Jean",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=30",
+      "isPro": true
+    },
+    "comment": "Excellent WiFi and very professional staff. Highly recommend.",
+    "rating": 5
+  },
+  {
+    "id": "rev-31",
+    "offerId": "312c58b9-fb7b-469d-b837-64d4169b6c35",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=31",
+      "isPro": false
+    },
+    "comment": "The most central flat I've ever stayed in. Simply perfect.",
+    "rating": 5
+  },
+  {
+    "id": "rev-32",
+    "offerId": "312c58b9-fb7b-469d-b837-64d4169b6c35",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=32",
+      "isPro": true
+    },
+    "comment": "Modern kitchen and great AC. Everything was brand new.",
+    "rating": 5
+  },
+  {
+    "id": "rev-33",
+    "offerId": "312c58b9-fb7b-469d-b837-64d4169b6c35",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=33",
+      "isPro": false
+    },
+    "comment": "Hugo is a super host. He helped us with everything.",
+    "rating": 5
+  },
+  {
+    "id": "rev-34",
+    "offerId": "03d5f655-9369-45eb-bb09-aca06aa4bb29",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=34",
+      "isPro": false
+    },
+    "comment": "Small but magical. It has such a unique atmosphere.",
+    "rating": 4
+  },
+  {
+    "id": "rev-35",
+    "offerId": "03d5f655-9369-45eb-bb09-aca06aa4bb29",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Lea",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=35",
+      "isPro": true
+    },
+    "comment": "Coffee machine was great. Lovely pond view from the window.",
+    "rating": 4
+  },
+  {
+    "id": "rev-36",
+    "offerId": "03d5f655-9369-45eb-bb09-aca06aa4bb29",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Paul",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=36",
+      "isPro": false
+    },
+    "comment": "A bit tight for two people, but very charming for a solo traveler.",
+    "rating": 3
+  },
+  {
+    "id": "rev-37",
+    "offerId": "b95a4988-ac11-4a97-b94e-2322be998052",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=37",
+      "isPro": true
+    },
+    "comment": "The wine cellar is impressive. A truly elite experience.",
+    "rating": 5
+  },
+  {
+    "id": "rev-38",
+    "offerId": "b95a4988-ac11-4a97-b94e-2322be998052",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Seb",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=38",
+      "isPro": false
+    },
+    "comment": "Beautiful garden and historic architecture. A masterpiece.",
+    "rating": 5
+  },
+  {
+    "id": "rev-39",
+    "offerId": "b95a4988-ac11-4a97-b94e-2322be998052",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Luc",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=39",
+      "isPro": true
+    },
+    "comment": "Garage was very useful since parking in Paris is a nightmare.",
+    "rating": 5
+  },
+  {
+    "id": "rev-40",
+    "offerId": "a69d77d1-8ba7-4e71-abb4-b76ad51a1f51",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=40",
+      "isPro": false
+    },
+    "comment": "Boutique hotel charm. The daily cleaning was impeccable.",
+    "rating": 4
+  },
+  {
+    "id": "rev-41",
+    "offerId": "a69d77d1-8ba7-4e71-abb4-b76ad51a1f51",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=41",
+      "isPro": true
+    },
+    "comment": "Nice view, but the room was a bit small for the price.",
+    "rating": 3
+  },
+  {
+    "id": "rev-42",
+    "offerId": "a69d77d1-8ba7-4e71-abb4-b76ad51a1f51",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=42",
+      "isPro": false
+    },
+    "comment": "Very cozy and central. Andre is a polite host.",
+    "rating": 4
+  },
+  {
+    "id": "rev-43",
+    "offerId": "dcc44e0b-e1f8-41a0-be7b-a39203c3e3a9",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=43",
+      "isPro": false
+    },
+    "comment": "Cologne is beautiful and this apartment is right by the Rhine.",
+    "rating": 5
+  },
+  {
+    "id": "rev-44",
+    "offerId": "dcc44e0b-e1f8-41a0-be7b-a39203c3e3a9",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Hans",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=44",
+      "isPro": true
+    },
+    "comment": "Modern design and very fast WiFi. Great for business travel.",
+    "rating": 4
+  },
+  {
+    "id": "rev-45",
+    "offerId": "dcc44e0b-e1f8-41a0-be7b-a39203c3e3a9",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Klaus",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=45",
+      "isPro": false
+    },
+    "comment": "Quiet neighborhood but close to all the bars. Best of both worlds.",
+    "rating": 5
+  },
+  {
+    "id": "rev-46",
+    "offerId": "a92bbc28-77c4-41dc-8278-d5cbfad361e7",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=46",
+      "isPro": true
+    },
+    "comment": "Brussels' hidden gem. The artistic touch is very cool.",
+    "rating": 5
+  },
+  {
+    "id": "rev-47",
+    "offerId": "a92bbc28-77c4-41dc-8278-d5cbfad361e7",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Benoit",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=47",
+      "isPro": false
+    },
+    "comment": "Warm and cozy. The towels were soft and the heating worked well.",
+    "rating": 4
+  },
+  {
+    "id": "rev-48",
+    "offerId": "a92bbc28-77c4-41dc-8278-d5cbfad361e7",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Luc",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=48",
+      "isPro": true
+    },
+    "comment": "Great value for money in the center of Brussels.",
+    "rating": 4
+  },
+  {
+    "id": "rev-49",
+    "offerId": "43367afb-7fc4-438d-bef1-1605d84757ca",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=49",
+      "isPro": false
+    },
+    "comment": "Emma is a pro! The coffee machine was a great touch.",
+    "rating": 5
+  },
+  {
+    "id": "rev-50",
+    "offerId": "43367afb-7fc4-438d-bef1-1605d84757ca",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=50",
+      "isPro": true
+    },
+    "comment": "High-end comfort. The washing machine saved me during my trip.",
+    "rating": 4
+  },
+  {
+    "id": "rev-51",
+    "offerId": "43367afb-7fc4-438d-bef1-1605d84757ca",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=51",
+      "isPro": false
+    },
+    "comment": "Central, clean, and very quiet. I will definitely come back.",
+    "rating": 5
+  },
+  {
+    "id": "rev-52",
+    "offerId": "77b6a80b-dd86-4bc0-9ee5-c22d9b33f7ce",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=52",
+      "isPro": false
+    },
+    "comment": "The waterfront view is extraordinary. Truly five-star service.",
+    "rating": 5
+  },
+  {
+    "id": "rev-53",
+    "offerId": "77b6a80b-dd86-4bc0-9ee5-c22d9b33f7ce",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Jan",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=53",
+      "isPro": true
+    },
+    "comment": "Air conditioning was perfect. The minibar had a great selection.",
+    "rating": 4
+  },
+  {
+    "id": "rev-54",
+    "offerId": "77b6a80b-dd86-4bc0-9ee5-c22d9b33f7ce",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Burt",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=54",
+      "isPro": false
+    },
+    "comment": "Expensive but the breakfast on the terrace is worth it.",
+    "rating": 5
+  },
+  {
+    "id": "rev-55",
+    "offerId": "be945319-78b4-4e45-91b7-e08a476b7a55",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=55",
+      "isPro": true
+    },
+    "comment": "Great for families. The garden is safe for kids to play.",
+    "rating": 4
+  },
+  {
+    "id": "rev-56",
+    "offerId": "be945319-78b4-4e45-91b7-e08a476b7a55",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Lucas",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=56",
+      "isPro": false
+    },
+    "comment": "Huge kitchen, we cooked a big dinner for the whole family.",
+    "rating": 5
+  },
+  {
+    "id": "rev-57",
+    "offerId": "be945319-78b4-4e45-91b7-e08a476b7a55",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Elena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=57",
+      "isPro": true
+    },
+    "comment": "Garage access was a plus. Very spacious house.",
+    "rating": 5
+  },
+  {
+    "id": "rev-58",
+    "offerId": "bf3d1535-e2c7-44e2-b22a-7ec61e2f56ae",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=58",
+      "isPro": false
+    },
+    "comment": "Right next to the chocolate shops! A dangerous location for me.",
+    "rating": 5
+  },
+  {
+    "id": "rev-59",
+    "offerId": "bf3d1535-e2c7-44e2-b22a-7ec61e2f56ae",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=59",
+      "isPro": true
+    },
+    "comment": "Classic Belgian decor. Very elegant and clean.",
+    "rating": 4
+  },
+  {
+    "id": "rev-60",
+    "offerId": "bf3d1535-e2c7-44e2-b22a-7ec61e2f56ae",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=60",
+      "isPro": false
+    },
+    "comment": "The hairdryer was professional grade. Loved the daily cleaning.",
+    "rating": 5
+  },
+  {
+    "id": "rev-61",
+    "offerId": "d1a91df2-3fdd-4775-9f73-f99c99b3068b",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=61",
+      "isPro": false
+    },
+    "comment": "Amsterdam's best view! The five balconies are amazing.",
+    "rating": 5
+  },
+  {
+    "id": "rev-62",
+    "offerId": "d1a91df2-3fdd-4775-9f73-f99c99b3068b",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Jan",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=62",
+      "isPro": true
+    },
+    "comment": "Elevator was very useful for our heavy bags. Penthouse living!",
+    "rating": 4
+  },
+  {
+    "id": "rev-63",
+    "offerId": "d1a91df2-3fdd-4775-9f73-f99c99b3068b",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Klaas",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=63",
+      "isPro": false
+    },
+    "comment": "Panoramic views. The kitchen has everything you need.",
+    "rating": 5
+  },
+  {
+    "id": "rev-64",
+    "offerId": "cc4a7678-9de1-4732-aa86-3fcedf5a3005",
+    "date": "2024-02-15T12:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=64",
+      "isPro": true
+    },
+    "comment": "Wood and stone design is very organic. Very tranquil stay.",
+    "rating": 5
+  },
+  {
+    "id": "rev-65",
+    "offerId": "cc4a7678-9de1-4732-aa86-3fcedf5a3005",
+    "date": "2024-03-01T10:00:00.000Z",
+    "user": {
+      "name": "Anke",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=65",
+      "isPro": false
+    },
+    "comment": "The fireplace was so cozy in the evening. Highly recommended.",
+    "rating": 5
+  },
+  {
+    "id": "rev-66",
+    "offerId": "cc4a7678-9de1-4732-aa86-3fcedf5a3005",
+    "date": "2024-03-10T14:30:00.000Z",
+    "user": {
+      "name": "Luc",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=66",
+      "isPro": true
+    },
+    "comment": "A bit unique, very different from standard hotels. Loved it.",
+    "rating": 4
+  },
+  {
+    "id": "rev-67",
+    "offerId": "126b5947-eec9-452b-8eae-7c8757f28e9f",
+    "date": "2024-01-20T18:20:00.000Z",
+    "user": {
+      "name": "Lena",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=67",
+      "isPro": false
+    },
+    "comment": "Close to the harbor and fish markets. Hamburg at its best.",
+    "rating": 4
+  },
+  {
+    "id": "rev-68",
+    "offerId": "126b5947-eec9-452b-8eae-7c8757f28e9f",
+    "date": "2024-02-05T14:15:00.000Z",
+    "user": {
+      "name": "Jack",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=68",
+      "isPro": true
+    },
+    "comment": "Dieter is a very professional host. Apartment was spotless.",
+    "rating": 5
+  },
+  {
+    "id": "rev-69",
+    "offerId": "126b5947-eec9-452b-8eae-7c8757f28e9f",
+    "date": "2024-03-05T10:15:00.000Z",
+    "user": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=69",
+      "isPro": false
+    },
+    "comment": "Modern and vibrant. Great for a short city break.",
+    "rating": 4
+  },
+  {
+    "id": "rev-70",
+    "offerId": "cfbe5270-e040-4fd0-8c31-f24c84e3dc74",
+    "date": "2024-03-01T15:30:00.000Z",
+    "user": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=70",
+      "isPro": false
+    },
+    "comment": "Minimalist and stylish. Right in the fashion district.",
+    "rating": 4
+  },
+  {
+    "id": "rev-71",
+    "offerId": "cfbe5270-e040-4fd0-8c31-f24c84e3dc74",
+    "date": "2024-03-05T12:00:00.000Z",
+    "user": {
+      "name": "Karl",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=71",
+      "isPro": true
+    },
+    "comment": "Room service was very efficient. Great breakfast too.",
+    "rating": 4
+  },
+  {
+    "id": "rev-72",
+    "offerId": "cfbe5270-e040-4fd0-8c31-f24c84e3dc74",
+    "date": "2024-03-08T19:20:00.000Z",
+    "user": {
+      "name": "Heidi",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=72",
+      "isPro": false
+    },
+    "comment": "Quiet even though it's central. Very comfortable bed.",
+    "rating": 5
+  },
+  {
+    "id": "rev-73",
+    "offerId": "0a928449-2ae6-4a2f-9630-bae9858cd6b3",
+    "date": "2024-04-01T08:00:00.000Z",
+    "user": {
+      "name": "Burt",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=73",
+      "isPro": false
+    },
+    "comment": "Second time here. Angelina is the best host!",
+    "rating": 5
+  },
+  {
+    "id": "rev-74",
+    "offerId": "cbcd0a6b-d06a-4275-8d21-85783e54dba2",
+    "date": "2024-04-05T10:00:00.000Z",
+    "user": {
+      "name": "Lea",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=74",
+      "isPro": true
+    },
+    "comment": "The dishwasher saved us so much time. Great stay.",
+    "rating": 4
+  },
+  {
+    "id": "rev-75",
+    "offerId": "11eb5c51-7731-4b79-a83a-d291d7ab467a",
+    "date": "2024-04-10T12:00:00.000Z",
+    "user": {
+      "name": "Paul",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=75",
+      "isPro": false
+    },
+    "comment": "Loved the canal view in the morning. So peaceful.",
+    "rating": 5
+  },
+  {
+    "id": "rev-76",
+    "offerId": "0b715d89-b6e8-4e17-8d14-bea3cd949acd",
+    "date": "2024-04-12T14:00:00.000Z",
+    "user": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=76",
+      "isPro": true
+    },
+    "comment": "The kitchen has everything. Made a full dinner here.",
+    "rating": 4
+  },
+  {
+    "id": "rev-77",
+    "offerId": "ae3a6fb5-7a8c-436b-b02c-611c4443cb0e",
+    "date": "2024-04-15T16:00:00.000Z",
+    "user": {
+      "name": "Clara",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=77",
+      "isPro": false
+    },
+    "comment": "The premium service is real. Isabelle is very professional.",
+    "rating": 5
+  },
+  {
+    "id": "rev-78",
+    "offerId": "deeaf320-e42f-467d-8127-c28aa49fef14",
+    "date": "2024-04-18T18:00:00.000Z",
+    "user": {
+      "name": "Ben",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=78",
+      "isPro": true
+    },
+    "comment": "Unique desert vibes. Best photos for my Instagram!",
+    "rating": 5
+  },
+  {
+    "id": "rev-79",
+    "offerId": "babc1bf7-c88f-4eca-b924-b155c4a400a5",
+    "date": "2024-04-20T20:00:00.000Z",
+    "user": {
+      "name": "Anna",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=79",
+      "isPro": false
+    },
+    "comment": "Great value, even if you share some spaces.",
+    "rating": 4
+  },
+  {
+    "id": "rev-80",
+    "offerId": "56250221-3700-4840-a509-0f1353a8fca4",
+    "date": "2024-04-22T22:00:00.000Z",
+    "user": {
+      "name": "Victor",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=80",
+      "isPro": true
+    },
+    "comment": "Classic hotel experience. Top-notch service.",
+    "rating": 5
+  },
+  {
+    "id": "rev-81",
+    "offerId": "bd242813-5dad-42ca-a431-d195c7da2d6c",
+    "date": "2024-04-25T08:00:00.000Z",
+    "user": {
+      "name": "Sarah",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=81",
+      "isPro": false
+    },
+    "comment": "So much space! We never felt crowded.",
+    "rating": 5
+  },
+  {
+    "id": "rev-82",
+    "offerId": "bcc72946-0705-4a69-863f-87723e081090",
+    "date": "2024-04-28T10:00:00.000Z",
+    "user": {
+      "name": "Tom",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=82",
+      "isPro": true
+    },
+    "comment": "The spa was the highlight of my trip.",
+    "rating": 5
+  },
+  {
+    "id": "rev-83",
+    "offerId": "312c58b9-fb7b-469d-b837-64d4169b6c35",
+    "date": "2024-04-30T12:00:00.000Z",
+    "user": {
+      "name": "Julie",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=83",
+      "isPro": false
+    },
+    "comment": "Unbeatable location. Right in the heart of Paris.",
+    "rating": 5
+  },
+  {
+    "id": "rev-84",
+    "offerId": "03d5f655-9369-45eb-bb09-aca06aa4bb29",
+    "date": "2024-05-02T14:00:00.000Z",
+    "user": {
+      "name": "Leo",
+      "avatarUrl": "https://loremflickr.com/54/54/face?lock=84",
+      "isPro": true
+    },
+    "comment": "Small, cozy, and very special. Loved it.",
+    "rating": 4
+  }
+]

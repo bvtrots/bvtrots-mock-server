@@ -1,0 +1,965 @@
+[
+  {
+    "id": "0a928449-2ae6-4a2f-9630-bae9858cd6b3",
+    "title": "Loft Studio in the Central Area",
+    "type": "room",
+    "price": 269,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=1",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.86861,
+      "longitude": 2.342499,
+      "zoom": 16
+    },
+    "isFavorite": true,
+    "isPremium": false,
+    "rating": 1.9,
+    "bedrooms": 1,
+    "description": "A modern loft in the heart of Paris, perfect for those who love city life and minimalist design.",
+    "goods": [
+      "Wi-Fi",
+      "Washing machine",
+      "Towels",
+      "Heating"
+    ],
+    "host": {
+      "name": "Angelina",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=1",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=1",
+      "https://loremflickr.com/260/200/interior?lock=2"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "cbcd0a6b-d06a-4275-8d21-85783e54dba2",
+    "title": "The house among olive ",
+    "type": "hotel",
+    "price": 458,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=2",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.85861,
+      "longitude": 2.330499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 4.4,
+    "bedrooms": 3,
+    "description": "Relax in this peaceful oasis surrounded by nature, even though you are in the middle of the city.",
+    "goods": [
+      "Coffee machine",
+      "Dishwasher",
+      "Fridge",
+      "Air conditioning"
+    ],
+    "host": {
+      "name": "Marc",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=2",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=3",
+      "https://loremflickr.com/260/200/interior?lock=4"
+    ],
+    "maxAdults": 5
+  },
+  {
+    "id": "11eb5c51-7731-4b79-a83a-d291d7ab467a",
+    "title": "Canal View Prinsengracht",
+    "type": "room",
+    "price": 221,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=3",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.83461,
+      "longitude": 2.335499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 1.1,
+    "bedrooms": 1,
+    "description": "Charming room with a view that will make your stay unforgettable.",
+    "goods": [
+      "Wi-Fi",
+      "Cable TV",
+      "Heating"
+    ],
+    "host": {
+      "name": "Sophie",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=3",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=5"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "0b715d89-b6e8-4e17-8d14-bea3cd949acd",
+    "title": "Nice, cozy, warm big bed apartment",
+    "type": "hotel",
+    "price": 285,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=4",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.85761,
+      "longitude": 2.358499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 2.7,
+    "bedrooms": 2,
+    "description": "An apartment where comfort comes first. The bed is as huge as it is soft.",
+    "goods": [
+      "Wi-Fi",
+      "Kitchen",
+      "Fridge",
+      "Towels"
+    ],
+    "host": {
+      "name": "Jean",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=4",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=6"
+    ],
+    "maxAdults": 3
+  },
+  {
+    "id": "ae3a6fb5-7a8c-436b-b02c-611c4443cb0e",
+    "title": "Loft Studio in the Central Area",
+    "type": "hotel",
+    "price": 325,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=5",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.87561,
+      "longitude": 2.375499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 1.6,
+    "bedrooms": 1,
+    "description": "Premium service and a prime location for those who don't want to compromise.",
+    "goods": [
+      "Air conditioning",
+      "Breakfast",
+      "Wi-Fi",
+      "Safe"
+    ],
+    "host": {
+      "name": "Isabelle",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=5",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=7"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "deeaf320-e42f-467d-8127-c28aa49fef14",
+    "title": "The Joshua Tree House",
+    "type": "apartment",
+    "price": 279,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=6",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.87961,
+      "longitude": 2.353499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 1.7,
+    "bedrooms": 2,
+    "description": "Inspired by desert aesthetics, this house brings a unique vibe to Paris.",
+    "goods": [
+      "Kitchen",
+      "Dishwasher",
+      "Washing machine",
+      "Laptop friendly workspace"
+    ],
+    "host": {
+      "name": "Mick",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=6",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=8"
+    ],
+    "maxAdults": 4
+  },
+  {
+    "id": "babc1bf7-c88f-4eca-b924-b155c4a400a5",
+    "title": "Penthouse, 4-5 rooms + 5 balconies",
+    "type": "room",
+    "price": 119,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=7",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.83461,
+      "longitude": 2.364499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 2.6,
+    "bedrooms": 1,
+    "description": "Luxury living on a budget. Access to common areas of a massive penthouse.",
+    "goods": [
+      "Balcony",
+      "Wi-Fi",
+      "Kitchen"
+    ],
+    "host": {
+      "name": "Luc",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=7",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=9"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "56250221-3700-4840-a509-0f1353a8fca4",
+    "title": "Beautiful & luxurious apartment at great location",
+    "type": "hotel",
+    "price": 172,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=8",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.83761,
+      "longitude": 2.345499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 4.4,
+    "bedrooms": 1,
+    "description": "Classic Parisian hotel experience with top-notch service.",
+    "goods": [
+      "Mini bar",
+      "Room service",
+      "TV"
+    ],
+    "host": {
+      "name": "Marie",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=8",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=10"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "bd242813-5dad-42ca-a431-d195c7da2d6c",
+    "title": "Penthouse, 4-5 rooms + 5 balconies",
+    "type": "apartment",
+    "price": 387,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=9",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.84761,
+      "longitude": 2.356499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 1.1,
+    "bedrooms": 4,
+    "description": "The ultimate space for large groups. Five balconies mean five different views of the city.",
+    "goods": [
+      "Kitchen",
+      "Dishwasher",
+      "Washing machine",
+      "Fridge",
+      "Coffee machine"
+    ],
+    "host": {
+      "name": "Pierre",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=9",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=11",
+      "https://loremflickr.com/260/200/interior?lock=12"
+    ],
+    "maxAdults": 8
+  },
+  {
+    "id": "bcc72946-0705-4a69-863f-87723e081090",
+    "title": "Beautiful & luxurious apartment at great location",
+    "type": "hotel",
+    "price": 460,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=10",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.86261,
+      "longitude": 2.369499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 3.9,
+    "bedrooms": 2,
+    "description": "High-end suite for travelers who value privacy and luxury.",
+    "goods": [
+      "Bathrobe",
+      "Slippers",
+      "Spa access",
+      "Wi-Fi"
+    ],
+    "host": {
+      "name": "Chloe",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=10",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=13"
+    ],
+    "maxAdults": 3
+  },
+  {
+    "id": "312c58b9-fb7b-469d-b837-64d4169b6c35",
+    "title": "Amazing and Extremely Central Flat",
+    "type": "hotel",
+    "price": 479,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=11",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.83861,
+      "longitude": 2.350499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 5,
+    "bedrooms": 3,
+    "description": "You can't get any closer to the center than this. Pure perfection.",
+    "goods": [
+      "Kitchen",
+      "Air conditioning",
+      "Wi-Fi",
+      "Dishwasher"
+    ],
+    "host": {
+      "name": "Hugo",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=11",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=14"
+    ],
+    "maxAdults": 6
+  },
+  {
+    "id": "03d5f655-9369-45eb-bb09-aca06aa4bb29",
+    "title": "The Pondhouse - A Magical Place",
+    "type": "apartment",
+    "price": 137,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=12",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.86161,
+      "longitude": 2.340499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 1.5,
+    "bedrooms": 1,
+    "description": "Small but charming apartment with a very special atmosphere.",
+    "goods": [
+      "Wi-Fi",
+      "Coffee machine"
+    ],
+    "host": {
+      "name": "Lea",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=12",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=15"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "b95a4988-ac11-4a97-b94e-2322be998052",
+    "title": "Beautiful & luxurious apartment at great location",
+    "type": "house",
+    "price": 893,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=13",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.87861,
+      "longitude": 2.357499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 1.7,
+    "bedrooms": 5,
+    "description": "A grand house for an elite stay. Historic architecture meets modern luxury.",
+    "goods": [
+      "Garden",
+      "Garage",
+      "Wine cellar",
+      "Wi-Fi"
+    ],
+    "host": {
+      "name": "Sebastian",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=13",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=16"
+    ],
+    "maxAdults": 10
+  },
+  {
+    "id": "a69d77d1-8ba7-4e71-abb4-b76ad51a1f51",
+    "title": "Canal View Prinsengracht",
+    "type": "hotel",
+    "price": 328,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=14",
+    "city": {
+      "name": "Paris",
+      "location": {
+        "latitude": 48.85661,
+        "longitude": 2.351499,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 48.87761,
+      "longitude": 2.333499,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 1.9,
+    "bedrooms": 1,
+    "description": "Boutique hotel room with a classic view.",
+    "goods": [
+      "Wi-Fi",
+      "Daily cleaning"
+    ],
+    "host": {
+      "name": "Andre",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=14",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=17"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "dcc44e0b-e1f8-41a0-be7b-a39203c3e3a9",
+    "title": "Perfectly located Castro",
+    "type": "apartment",
+    "price": 209,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=21",
+    "city": {
+      "name": "Cologne",
+      "location": {
+        "latitude": 50.938361,
+        "longitude": 6.959974,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.950361,
+      "longitude": 6.961974,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 2.5,
+    "bedrooms": 2,
+    "description": "Cologne's finest district. Modern apartment with easy access to the Rhine.",
+    "goods": [
+      "Kitchen",
+      "Wi-Fi",
+      "Fridge"
+    ],
+    "host": {
+      "name": "Hans",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=21",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=21"
+    ],
+    "maxAdults": 4
+  },
+  {
+    "id": "a92bbc28-77c4-41dc-8278-d5cbfad361e7",
+    "title": "The Pondhouse - A Magical Place",
+    "type": "room",
+    "price": 174,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=41",
+    "city": {
+      "name": "Brussels",
+      "location": {
+        "latitude": 50.846557,
+        "longitude": 4.351697,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.854557,
+      "longitude": 4.364697,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 3.8,
+    "bedrooms": 1,
+    "description": "Brussels' hidden gem. Cozy room with an artistic touch.",
+    "goods": [
+      "Wi-Fi",
+      "Heating",
+      "Towels"
+    ],
+    "host": {
+      "name": "Benoit",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=41",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=41"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "43367afb-7fc4-438d-bef1-1605d84757ca",
+    "title": "Amazing and Extremely Central Flat",
+    "type": "room",
+    "price": 250,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=42",
+    "city": {
+      "name": "Brussels",
+      "location": {
+        "latitude": 50.846557,
+        "longitude": 4.351697,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.867557,
+      "longitude": 4.371697,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 3.9,
+    "bedrooms": 1,
+    "description": "A high-end private room in the heart of Brussels. Experience the city like a local with premium comfort.",
+    "goods": [
+      "Wi-Fi",
+      "Washing machine",
+      "Towels",
+      "Heating",
+      "Coffee machine"
+    ],
+    "host": {
+      "name": "Emma",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=42",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=42",
+      "https://loremflickr.com/260/200/interior?lock=142"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "77b6a80b-dd86-4bc0-9ee5-c22d9b33f7ce",
+    "title": "Waterfront with extraordinary view",
+    "type": "hotel",
+    "price": 485,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=43",
+    "city": {
+      "name": "Brussels",
+      "location": {
+        "latitude": 50.846557,
+        "longitude": 4.351697,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.827557,
+      "longitude": 4.336697,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 2.1,
+    "bedrooms": 2,
+    "description": "Luxury hotel suite overlooking the water. Unmatched views and five-star service guaranteed.",
+    "goods": [
+      "Air conditioning",
+      "Breakfast",
+      "Minibar",
+      "Room service",
+      "Safe"
+    ],
+    "host": {
+      "name": "Hotel Plaza",
+      "avatarUrl": "https://loremflickr.com/128/128/business?lock=43",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=43",
+      "https://loremflickr.com/260/200/hotel?lock=43"
+    ],
+    "maxAdults": 4
+  },
+  {
+    "id": "be945319-78b4-4e45-91b7-e08a476b7a55",
+    "title": "Amazing and Extremely Central Flat",
+    "type": "house",
+    "price": 458,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=44",
+    "city": {
+      "name": "Brussels",
+      "location": {
+        "latitude": 50.846557,
+        "longitude": 4.351697,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.833557,
+      "longitude": 4.374697,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 2.6,
+    "bedrooms": 4,
+    "description": "Large family house in a central neighborhood. Plenty of space for a big company or family reunion.",
+    "goods": [
+      "Kitchen",
+      "Dishwasher",
+      "Fridge",
+      "Garden",
+      "Garage"
+    ],
+    "host": {
+      "name": "Lucas",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=44",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=44"
+    ],
+    "maxAdults": 8
+  },
+  {
+    "id": "bf3d1535-e2c7-44e2-b22a-7ec61e2f56ae",
+    "title": "Beautiful & luxurious apartment at great location",
+    "type": "hotel",
+    "price": 444,
+    "previewImage": "https://loremflickr.com/248/152/travel,city?lock=45",
+    "city": {
+      "name": "Brussels",
+      "location": {
+        "latitude": 50.846557,
+        "longitude": 4.351697,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 50.837557,
+      "longitude": 4.339697,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 4.5,
+    "bedrooms": 1,
+    "description": "Elegant hotel room with classic Belgian decor. Situated near the finest chocolate shops and galleries.",
+    "goods": [
+      "Wi-Fi",
+      "Cable TV",
+      "Daily cleaning",
+      "Hair dryer"
+    ],
+    "host": {
+      "name": "Boutique Stay",
+      "avatarUrl": "https://loremflickr.com/128/128/business?lock=45",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=45"
+    ],
+    "maxAdults": 2
+  },
+  {
+    "id": "d1a91df2-3fdd-4775-9f73-f99c99b3068b",
+    "title": "Penthouse, 4-5 rooms + 5 balconies",
+    "type": "apartment",
+    "price": 331,
+    "previewImage": "https://loremflickr.com/260/200/hotel,room?lock=4",
+    "city": {
+      "name": "Amsterdam",
+      "location": {
+        "latitude": 52.37454,
+        "longitude": 4.897976,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 52.36554,
+      "longitude": 4.911976,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 3.8,
+    "bedrooms": 4,
+    "description": "Massive Amsterdam penthouse with panoramic views. The five balconies offer a unique perspective of the canals.",
+    "goods": [
+      "Kitchen",
+      "Dishwasher",
+      "Washing machine",
+      "Fridge",
+      "Coffee machine",
+      "Elevator"
+    ],
+    "host": {
+      "name": "Jan",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=4",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=4",
+      "https://loremflickr.com/260/200/interior?lock=104"
+    ],
+    "maxAdults": 7
+  },
+  {
+    "id": "cc4a7678-9de1-4732-aa86-3fcedf5a3005",
+    "title": "Wood and stone place",
+    "type": "house",
+    "price": 240,
+    "previewImage": "https://loremflickr.com/260/200/hotel,room?lock=172",
+    "city": {
+      "name": "Amsterdam",
+      "location": {
+        "latitude": 52.37454,
+        "longitude": 4.897976,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 52.36754,
+      "longitude": 4.883976,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 4.8,
+    "bedrooms": 3,
+    "description": "A cozy house built with natural materials. Perfect for those who appreciate organic design and tranquility.",
+    "goods": [
+      "Fireplace",
+      "Wi-Fi",
+      "Kitchen",
+      "Laptop friendly workspace"
+    ],
+    "host": {
+      "name": "Anke",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=172",
+      "isPro": false
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=172"
+    ],
+    "maxAdults": 5
+  },
+  {
+    "id": "126b5947-eec9-452b-8eae-7c8757f28e9f",
+    "title": "Perfectly located Castro",
+    "type": "apartment",
+    "price": 381,
+    "previewImage": "https://loremflickr.com/260/200/hotel,room?lock=92",
+    "city": {
+      "name": "Hamburg",
+      "location": {
+        "latitude": 53.550341,
+        "longitude": 10.000654,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 53.528341,
+      "longitude": 10.018654,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": false,
+    "rating": 3.2,
+    "bedrooms": 2,
+    "description": "Modern apartment in Hamburg's vibrant district. Walking distance to the harbor and local fish markets.",
+    "goods": [
+      "Kitchen",
+      "Washing machine",
+      "Dishwasher",
+      "Wi-Fi"
+    ],
+    "host": {
+      "name": "Dieter",
+      "avatarUrl": "https://loremflickr.com/128/128/face?lock=92",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=92"
+    ],
+    "maxAdults": 4
+  },
+  {
+    "id": "cfbe5270-e040-4fd0-8c31-f24c84e3dc74",
+    "title": "Amazing and Extremely Central Flat",
+    "type": "hotel",
+    "price": 152,
+    "previewImage": "https://loremflickr.com/260/200/hotel,room?lock=114",
+    "city": {
+      "name": "Dusseldorf",
+      "location": {
+        "latitude": 51.225402,
+        "longitude": 6.776314,
+        "zoom": 13
+      }
+    },
+    "location": {
+      "latitude": 51.204402,
+      "longitude": 6.777314,
+      "zoom": 16
+    },
+    "isFavorite": false,
+    "isPremium": true,
+    "rating": 1.6,
+    "bedrooms": 1,
+    "description": "Stay in the center of Dusseldorf's fashion district. This premium hotel offers minimalist design and comfort.",
+    "goods": [
+      "Air conditioning",
+      "Wi-Fi",
+      "Breakfast",
+      "Room service"
+    ],
+    "host": {
+      "name": "Fashion Hotel",
+      "avatarUrl": "https://loremflickr.com/128/128/business?lock=114",
+      "isPro": true
+    },
+    "images": [
+      "https://loremflickr.com/260/200/interior?lock=114"
+    ],
+    "maxAdults": 2
+  }
+]
